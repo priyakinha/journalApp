@@ -94,5 +94,12 @@
     </plugins>
 </build>
 
+    <pluginRepositories>
+        <pluginRepository>
+            <id>sonarsource</id>
+            <url>https://repo.sonarsource.com/repo</url>
+        </pluginRepository>
+    </pluginRepositories>
+
 </project>
 
