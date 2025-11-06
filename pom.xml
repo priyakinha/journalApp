@@ -32,7 +32,7 @@
     <dependency>
            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb</artifactId>
-              <version>3.2.5</version>
+              <!-- <version>3.2.5</version> -->
      </dependency>
 
         <dependency>
@@ -94,12 +94,12 @@
     </plugins>
 </build>
 
-    <pluginRepositories>
+    <!-- <pluginRepositories>
         <pluginRepository>
             <id>sonarsource</id>
             <url>https://sonarcloud.io</url>
         </pluginRepository>
-    </pluginRepositories>
+    </pluginRepositories> -->
 
 </project>
 
