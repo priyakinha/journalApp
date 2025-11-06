@@ -97,7 +97,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>sonarsource</id>
-            <url>https://sonarcloud.io/projects</url>
+            <url>https://sonarcloud.io</url>
         </pluginRepository>
     </pluginRepositories>
 
